@@ -1,4 +1,4 @@
----
+---1b20538d597e7708f9abea93cc02f69016ceeff4c0a5ba159634bffacce466bb
 title: Teams
 redirect_from:
   - /v3/teams
